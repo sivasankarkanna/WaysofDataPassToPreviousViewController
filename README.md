@@ -1,1 +1,1 @@
-# TextRecognization
+# Delegate Test Patter
